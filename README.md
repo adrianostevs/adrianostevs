@@ -1,8 +1,8 @@
 ### Hi there 👋 My name is Steven Adriano
 
-- I’m currently learning Android
-- I’m a fresh-graduated Bachelor of Electrical Engineering
-- I’m interested in Android
+- I’m currently learning Android & Flutter
+- I’m a Mobile Engineer with 1+ years of experiences.
+- I’m interested in Android & Flutter
 
 <!--
 **adrianostevs/adrianostevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
